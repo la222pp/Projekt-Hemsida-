@@ -1,0 +1,182 @@
+
+body {
+    color:#c77672;
+    font-family:times;
+    font-size:1EM;
+    background:url(../pics/tweed.png);
+    background-repeat:repeat;
+    margin:0;
+    padding:0;
+}
+
+h1{ 
+    color:black;
+    margin:0;
+    padding-top:20px;
+    text-align:center;
+}
+   
+
+#header {
+    background-color:#8e2520;
+    
+    font-family:georgia;
+    height:100px;
+    width: 100%;
+    margin:0;
+}
+
+p {color: #c77672;}  
+a:link    {color:#5c0e0a;}
+a:visited {color:white;}
+a:focus   {color:#8e2520;}
+a:hover   {color:#8e2520;}
+a:active  {background-color:#c75953; color:#5c0e0a;}
+
+#menu a:hover {background-color:#c75953;}
+
+#menu {
+    font-family:tahoma;
+    width:110%;
+    background-color:#8e2520;
+    height:40px;
+    margin-left:-18px;
+    margin-top:-20px;
+
+}
+
+#menu li a {
+    font-family:verdana;
+    color:#5c0e0a;
+    background-color:#c77672;
+    padding-right:20px;
+    padding-bottom:4px;
+    padding-top:8px;
+    padding-left:20px;
+    display:block;
+    text-decoration:none;
+    font-size:12px;
+}
+
+#menu li {
+    background-color:#c77672;
+    float:left;
+    list-style:none;
+    margin-top:12px;
+    margin-right:1px;
+}
+
+
+#menu li.active a {
+    background-color:#c75953;
+    color:#5c0e0a;
+    margin:0;
+}
+
+#menuChoises {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+}
+
+
+
+.list {
+    background-color:red;
+    float:left;
+    margin:1px;
+}
+
+#container {
+    margin-top: -20px;
+    width:960px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: blue;
+}
+
+#content {
+    width:960px;
+    height:1020px;
+    background-color:white;
+    margin-right:auto;
+    margin-left:auto;
+    
+}
+
+#maincontent {
+    width:160px;
+    height:280px;
+    float:left;
+    padding-left:10px;
+    padding-right:10px;
+    margin-top:50px;
+    font-size:14px;
+    text-align:center;
+}
+
+#inspiration {
+    background-color:#5c0e0a;
+    height:250px;
+    width:160px;
+    margin-left:0px;
+    text-align: center;
+    padding:10px;
+}
+
+#subcontent {
+    width:650px;
+    height:50px;
+    margin-top:50px;
+    float:right;
+    
+}    
+
+#favorit {
+    background-color:#5c0e0a;
+    width:604px;
+    height:50px;
+    text-align:center;
+    margin-top:-20px;
+    margin-right:50px;
+}
+
+.blackface2 {
+    float:right;
+    margin-right:50px;
+    width: 600px;
+    height: 400px;
+}
+
+
+#bottomcontent {
+    
+    height:50px;
+    background-color:#5c0e0a;
+    position: relative;
+    top:600px;
+    margin-left: 50px;
+    margin-right: 50px
+ 
+}
+
+.love{
+    position:relative;
+    right:-250px;
+}
+
+
+#footer {
+    margin-top: -20px;
+    background-color:#292929;
+    height:100px;
+}
+
+
+
+
+
+
+
+
+
