@@ -1,10 +1,13 @@
-var slideshow = document.getElementById ("meca");
+var slideshow = document.getElementById ("face");
 var pic = 
 [
 
-"../pics/company/okq8.png",
-"../pics/company/autoexperten.png",
-"../pics/company/meca.png",
+"../pics/blackface2.jpg",
+"../bildspel/img1.jpg",
+"../bildspel/img2.jpg",
+"../bildspel/img3.jpg",
+"../bildspel/img4.jpg",
+"../bildspel/img5.jpg",
 ];
 
 var counter = 0;

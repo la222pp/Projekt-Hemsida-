@@ -19,7 +19,6 @@ h1{
 
 #header {
     background-color:#8e2520;
-    
     font-family:georgia;
     height:100px;
     width: 100%;
@@ -88,21 +87,22 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
 }
 
 #container {
-    margin-top: -20px;
+    margin-top:-20px;
     width:960px;
     margin-right:auto;
     margin-left:auto;
-    background-color: blue;
+    background-color:white;
 }
 
 #content {
     width:960px;
-    height:1020px;
     background-color:white;
     margin-right:auto;
     margin-left:auto;
-    
+    margin-top:-20px;
 }
+
+/*Hem*/
 
 #maincontent {
     width:160px;
@@ -129,7 +129,6 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
     height:50px;
     margin-top:50px;
     float:right;
-    
 }    
 
 #favorit {
@@ -150,14 +149,12 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
 
 
 #bottomcontent {
-    
     height:50px;
     background-color:#5c0e0a;
     position: relative;
-    top:600px;
+    top:550px;
     margin-left: 50px;
     margin-right: 50px
- 
 }
 
 .love{
@@ -165,12 +162,163 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
     right:-250px;
 }
 
+#face {
+    margin-bottom:100px;
+    position:absolute;
+}
+
+/*Slut Hem*/
 
 #footer {
-    margin-top: -20px;
+    margin-top:1200px;
     background-color:#292929;
     height:100px;
+    text-align:center;
+    position:static;
 }
+
+/*Galleri*/
+/*Bläck*/
+#ink {
+    margin-left:150px;
+    margin-right:150px;
+}
+
+#kategoriInk {
+   margin-top:-20px;
+   margin-left:130px;
+}
+
+.black {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+
+/*Skräck*/
+#horror {
+    margin-left:150px;
+    margin-right:150px;
+}
+
+#kategoriHorror {
+   margin-top:-20px;
+   margin-left:130px;
+}
+
+.skrack {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+
+/*Magi*/
+#magic {
+    margin-left:150px;
+    margin-right:150px;
+}
+
+#kategoriMagic {
+   margin-top:-20px;
+   margin-left:130px;
+}
+
+.magi {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+
+/*Natur*/
+#nature {
+    margin-left:150px;
+    margin-right:150px;
+}
+
+#kategoriNature {
+   margin-top:-20px;
+   margin-left:130px;
+}
+
+.natur {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+
+/*Tecknat*/
+#toon {
+    margin-left:150px;
+    margin-right:150px;
+}
+
+#kategoriToon {
+   margin-top:-20px;
+   margin-left:30px;
+}
+
+.tecknat {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+
+/*Konst*/
+#art {
+    margin-left:150px;
+    margin-right:150px;
+}
+
+#kategoriArt {
+   margin-top:-20px;
+   margin-left:130px;
+   margin-bottom:40px;
+}
+
+.konst {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+
+/*Kundvagn*/
+#konst {
+    margin-left:150px;
+    margin-right:150px;
+    height:650px;
+    background-color:#5c0e0a;
+}
+
+#kategoriKonst {
+   margin-top:-20px;
+   margin-left:130px;
+   margin-bottom:40px;
+}
+
+.art {
+    text-align:center;
+    background-color:#5c0e0a;
+}
+
+#next {
+    margin-bottom:20px;
+}
+
+
+/*Konto*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
