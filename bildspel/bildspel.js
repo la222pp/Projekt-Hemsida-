@@ -1,7 +1,6 @@
 var slideshow = document.getElementById ("face");
 var pic = 
 [
-
 "../pics/blackface2.jpg",
 "../bildspel/img1.jpg",
 "../bildspel/img2.jpg",

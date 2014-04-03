@@ -9,6 +9,7 @@
     #menu {display:none;}
     #container {float:none;}
     #content {float:none; width:auto; margin-left:10px;}
+    #bildspel {display:none;}
 }
 
 
@@ -24,7 +25,9 @@ body {
     margin:0;
     padding:0;
 }
-
+h3{
+    color:white;
+}
 h1{ 
     color:black;
     margin:0;
@@ -118,6 +121,13 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
     margin-top:-20px;
 }
 
+#footer {
+    margin-top:auto;
+    background-color:#292929;
+    height:100px;
+    text-align:center;
+}
+
 /*Hem*/
 
 #maincontent {
@@ -136,7 +146,7 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
     height:250px;
     width:160px;
     margin-left:0px;
-    text-align: center;
+    text-align:center;
     padding:10px;
 }
 
@@ -164,34 +174,17 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
 }
 
 
-#bottomcontent {
-    height:50px;
-    background-color:#5c0e0a;
-    position: relative;
-    top:550px;
-    margin-left: 50px;
-    margin-right: 50px
-}
-
-.love{
-    position:relative;
-    right:-250px;
-}
+/*bildspel*/
 
 #face {
-    margin-bottom:100px;
-    position:absolute;
+    margin-left:180px;
+    margin-top:150px;
 }
+
+/*slut bildspel*/
 
 /*Slut Hem*/
 
-#footer {
-    margin-top:1200px;
-    background-color:#292929;
-    height:100px;
-    text-align:center;
-    position:static;
-}
 
 /*Galleri*/
 /*Bläck*/
@@ -295,7 +288,7 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
     text-align:center;
     background-color:#5c0e0a;
 }
-
+/*slut Galleri*/
 
 /*Kundvagn*/
 #konst {
@@ -320,21 +313,97 @@ a:active  {background-color:#c75953; color:#5c0e0a;}
     margin-bottom:20px;
 }
 
+#alternativ {
+    margin-right:150px;
+    margin-left:150px;
+}
+
+#next {
+    margin-left:675px;
+}
+
+#redigeraOrder {
+    margin-left:150px;
+}
+
+/*slut Kundvagn*/
+
 
 /*Konto*/
 
+#first {
+    background-color:#5c0e0a;
+    margin-left:180px;
+    margin-right:180px;
+    margin-top:10px;
+    text-align:center;
+}
+
+#second {
+    background-color:#5c0e0a;
+    margin-left:180px;
+    margin-right:180px;
+    margin-top:10px;
+    text-align:center;
+}
+
+#third {
+    background-color:#5c0e0a;
+    margin-left:180px;
+    margin-right:180px;
+    margin-top:10px;
+    text-align:center;
+}
+
+#fourth {
+    background-color:#5c0e0a;
+    margin-left:180px;
+    margin-right:180px;
+    margin-top:10px;
+    text-align:center;
+}
+
+#text1 {
+    margin-left:180px;
+}
+
+#text2 {
+    margin-left:180px;
+}
+
+#text3 {
+    margin-left:180px;
+}
+
+#text4 {
+    margin-left:180px;
+}
+
+/*slut Konto*/
 
 
+/*Chatt*/
 
+#rubrik {
+    background-color:#5c0e0a;
+    margin-left:180px;
+    margin-right:180px;
+    margin-bottom:50px;
+    height:40px;
+    text-align:center;
+}
 
+#konversation {
+    margin-right:150px;
+    margin-left:150px;
+    height:300px;
+}
 
+#beskrivning {
+    margin-top:100px;
+}
 
-
-
-
-
-
-
+/*slut Chatt*/
 
 
 
